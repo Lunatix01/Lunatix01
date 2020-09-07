@@ -1,6 +1,5 @@
-### Hi there 👋
+### HELLO
 ```console
 Lunatix@Machine:~$ whoami
 LunatiX
-
 ```
