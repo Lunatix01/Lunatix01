@@ -1,6 +1,6 @@
 # HELLO 
 ```console
-Lunatix@Machine:~$ whoami
+Lunatix@0xSec:~$ whoami
 
 LunatiX
 
