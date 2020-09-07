@@ -1,4 +1,4 @@
-# HEllO 
+# HELLO 
 ```console
 Lunatix@Machine:~$ whoami
 
