@@ -2,4 +2,4 @@
 Lunatix@Machine:~$ whoami
 LunatiX
 ```
-<img src="https://tryhackme-badges.s3.amazonaws.com/lunatix01.png">
+<img src="https://www.upload.ee/image/12245230/me.png" alt="TryHackMe">
