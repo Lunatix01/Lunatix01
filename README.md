@@ -7,4 +7,4 @@ LunatiX
 ```
 # Aiming to be a CyberSecurity Specialist
 
-<img src="https://github.com/Lunatix01/Lunatix01/blob/master/me.png" alt="THM"/>
+<img src="https://github.com/Lunatix01/Lunatix01/blob/master/lunatix01.png" alt="THM"/>
