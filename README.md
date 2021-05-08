@@ -8,4 +8,3 @@ LunatiX
 # Aiming to be a CyberSecurity Specialist
 
 <img src="https://github.com/Lunatix01/Lunatix01/blob/master/img/lunatix01.png" alt="THM"/>
-<script src="https://tryhackme.com/badge/148986"></script>
