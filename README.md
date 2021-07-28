@@ -5,7 +5,9 @@ Lunatix@0xSec:~$ whoami
 LunatiX
 
 ```
+# Software Developer
 # Aiming to be a CyberSecurity Specialist
+ 
 
 <img src="https://github.com/Lunatix01/Lunatix01/blob/master/img/lunatix01.png" alt="THM"/>
 <br>
