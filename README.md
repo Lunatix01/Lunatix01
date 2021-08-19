@@ -1,6 +1,7 @@
 ```js
 # Hello Wonderful People
-``` <p align="right"> 
+``` 
+<p align="right"> 
 <img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
 
 ```console
