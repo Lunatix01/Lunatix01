@@ -13,7 +13,7 @@ LunatiX
   
     
   
-   <summary><b>Programming Languages</b></summary>
+   - <b>Programming Languages</b>
     
   <br>
     
@@ -25,7 +25,7 @@ LunatiX
   
     
   
-   <summary><b>Front-End</b></summary>
+   - <b>Front-End</b>
     
  <br>
     
