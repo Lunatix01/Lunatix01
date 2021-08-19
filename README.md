@@ -11,7 +11,7 @@ LunatiX
   <br>
   <summary><b>Skills</b></summary>
   
-  <details>
+  
     $~~~~~~~~~~~$
     <summary><b>Programming Languages</b></summary>
     
@@ -19,9 +19,8 @@ LunatiX
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
     
-  </details>
   
-  <details>
+  
     <br>
    <summary><b>Front-End</b></summary>
     <br>
