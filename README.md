@@ -120,5 +120,6 @@ lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
   <br>
   
 ![Lunatix01](https://github-readme-stats.vercel.app/api?username=lunatix01&theme=radical&show_icons=true&&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatix01&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
  </details>
