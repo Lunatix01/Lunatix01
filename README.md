@@ -1,6 +1,5 @@
-```js
-# Hello Wonderful People
-``` 
+# Hello Wonderful People ❤️❤️❤️
+ 
 
 
 ```console
@@ -129,5 +128,5 @@ lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatix01&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
  </details>
-<p align="right"> 
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
