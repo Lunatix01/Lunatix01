@@ -77,7 +77,7 @@ lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
 </details>
 
 
-<details>
+<details style="color: red">
   
   <summary><b>Hacking</b></summary>
   
