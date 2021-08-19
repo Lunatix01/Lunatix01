@@ -11,7 +11,9 @@ LunatiX
   <br>
   <summary><b>Skills</b></summary>
   
-    <summary><b>Programming Languages</b></summary>
+    <br>
+   <summary><b>Programming Languages</b></summary>
+    <br>
     
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
