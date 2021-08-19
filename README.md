@@ -55,7 +55,7 @@ LunatiX
   
 </details>
 
-{{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
+< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >
 <img src="https://github.com/Lunatix01/Lunatix01/blob/master/img/lunatix01.png" alt="THM"/>
 <br>
 <img src="https://github.com/Lunatix01/Lunatix01/blob/master/img/htb.png" alt="htb"/>
