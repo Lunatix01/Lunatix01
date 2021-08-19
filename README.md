@@ -1,8 +1,7 @@
 ```js
 # Hello Wonderful People
 ``` 
-<p align="right"> 
-<img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
+
 
 ```console
 Lunatix@0xSec:~$ whoami
@@ -130,3 +129,5 @@ lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatix01&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
  </details>
+<p align="right"> 
+<img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
