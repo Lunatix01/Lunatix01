@@ -11,9 +11,11 @@ LunatiX
   <summary><b>Programming Languages</b></summary>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<br>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<br>
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-  
+<br>  
 </details>
 
 <img src="https://github.com/Lunatix01/Lunatix01/blob/master/img/lunatix01.png" alt="THM"/>
