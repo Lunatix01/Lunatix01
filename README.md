@@ -9,7 +9,7 @@ LunatiX
 # Aiming to be a CyberSecurity Specialist
 <details>
   
-  <summary><b>Skills</b></summary>
+  <summary><b>Web App Skills</b></summary>
   
     
   
