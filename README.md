@@ -2,11 +2,15 @@
 ```console
 Lunatix@0xSec:~$ whoami
 
-LunatiX
+LunatiX01
+
+Lunatix@0xSec:~$ uname -a
+
+lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
 
 ```
-# Software Developer
-# Aiming to be a CyberSecurity Specialist
+
+# Everything About me
 <details>
   
   <summary><b>Web App Skills</b></summary>
@@ -71,7 +75,6 @@ LunatiX
 
 </details>
 
-<br>
 
 <details>
   
