@@ -8,9 +8,9 @@ LunatiX
 # Software Developer
 # Aiming to be a CyberSecurity Specialist
 <details>
-  
+  <br>
   <summary><b>Skills</b></summary>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <details>
     
    <summary><b>Programming Languages</b></summary>
@@ -25,7 +25,7 @@ LunatiX
     <br>
    <summary><b>Front-End</b></summary>
     <br>
-    
+ 
     
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
