@@ -1,4 +1,4 @@
-# HELLO wonderful People <p align="right"><img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews"/></p>
+# Hello Wonderful People <p align="right"><img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews"/></p>
 ```console
 Lunatix@0xSec:~$ whoami
 
