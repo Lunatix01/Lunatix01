@@ -1,4 +1,5 @@
 # Hello Wonderful People <p align="right"> <img src="https://komarev.com/ghpvc/?username=Lunatix01&color=blueviolet&style=flat" alt="profileViews" style="display: inline"/></p>
+
 ```console
 Lunatix@0xSec:~$ whoami
 
@@ -109,5 +110,15 @@ lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+ </details>
+ 
+ <details>
+  
+  <summary><b>Stats</b></summary>
+  
+  <br>
+  
+![Lunatix01](https://github-readme-stats.vercel.app/api?username=lunatix01&hide=contribs,prs)
 
  </details>
