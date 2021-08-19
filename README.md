@@ -11,7 +11,7 @@ lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
 
 ```
 
-# Everything About me
+# Everything About Me
 <details>
   
   <summary><b>Web App Skills</b></summary>
