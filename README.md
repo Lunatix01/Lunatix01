@@ -13,7 +13,7 @@ LunatiX
   
     <br>
    <summary><b>Programming Languages</b></summary>
-    <br>
+    
     
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -23,7 +23,7 @@ LunatiX
   
     <br>
    <summary><b>Front-End</b></summary>
-    <br>
+    
  
     
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
