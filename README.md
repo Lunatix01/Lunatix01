@@ -12,6 +12,7 @@ LunatiX
   <summary><b>Skills</b></summary>
   
     <br>
+  
    <summary><b>Programming Languages</b></summary>
     
     
@@ -22,6 +23,7 @@ LunatiX
   
   
     <br>
+  
    <summary><b>Front-End</b></summary>
     
  
