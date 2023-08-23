@@ -9,7 +9,7 @@ LunatiX01
 
 Lunatix@0xSec:~$ uname -a
 
-Aland Osman AKA lunatix01 Web-Developer 127.0.0.1-1337 #Cyber-Security-Specialist GNU/LINUX
+Aland Osman AKA lunatix01 Web-Developer 127.0.0.1-1337 #average-ctf-enjoyer GNU/LINUX
 
 ```
 
